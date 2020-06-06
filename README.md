@@ -1,2 +1,2 @@
 # hello-world
-Git Hub pagw
+Git Hub page
